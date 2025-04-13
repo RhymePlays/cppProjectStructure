@@ -1,0 +1,5 @@
+{
+    "runWhenBuilt": true,
+    "sourceFiles": ["main.{EXT}"],
+    "dynamicLibraryFiles": ["library1/{OS-ARCH}/library1.{EXT}"]
+}
